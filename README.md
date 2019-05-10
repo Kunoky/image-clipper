@@ -3,7 +3,7 @@ image clipper
 
 [![NPM version][npm-image]][npm-url]
 
-[npm-image]: https://img.shields.io/badge/npm-v0.0.1-blue.svg
+[npm-image]: https://img.shields.io/badge/npm-v0.0.2-blue.svg
 [npm-url]: https://www.npmjs.com/package/@solakuroky/image-clipper
 ## Screenshot
 
